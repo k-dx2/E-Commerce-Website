@@ -1,0 +1,53 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+<style>
+    .button {
+        background-color: indianred;
+        margin: 0 auto;
+        border: none;
+        color: white;
+        padding: 10px 10px;
+        text-align: left;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+    }
+    .header {
+        padding: 30px;
+        text-align: center;
+        color: indianred;
+        font-size: 50px;
+    }
+
+    .alignleft {
+        text-align: left;
+    }
+
+    .alignright {
+        text-align: right;
+    }
+</style>
+
+
+<h1 class="header">Thankyou for Shopping with Us!!</h1>
+<p align="center" style="font-size:80px">&#128519;</p>
+<div class="alignleft">
+    <form method="get">
+
+        <button align="left" class="button" type="submit" asp-controller="Products" asp-action="Index">Continue Shopping </button>
+
+
+    </form>
+</div>
+<div class="alignright">
+    <form method="get">
+
+        <button align="right" class="button" type="submit" asp-controller="Home" asp-action="Index"> Home </button>
+    </form>
+</div>
+
+

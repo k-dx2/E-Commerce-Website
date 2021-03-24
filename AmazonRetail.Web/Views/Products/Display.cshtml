@@ -1,0 +1,31 @@
+﻿@model IEnumerable<AmazonWeb.Core.Entities.Product>
+@{
+    ViewData["Title"] = "Display";
+}
+<style>
+    .button {
+        background-color: indianred; 
+        border: none;
+        color: white;
+        padding: 10px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+    }
+    .center {
+        margin: auto;
+        width: 50%;
+        border: 3px solid indianred;
+        padding: 10px;
+    }
+</style>
+
+<h1>Search</h1>
+
+<form method="get">
+    <p>
+        <input  class="center" type="text" name="SearchString" />
+        <button class="button" type="submit" asp-controller="Products" asp-action="Search"> Search </button>
+    </p>
+</form>

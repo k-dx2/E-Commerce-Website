@@ -1,0 +1,15 @@
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.deps.json
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.runtimeconfig.json
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.runtimeconfig.dev.json
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.dll
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.pdb
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonWeb.Core.dll
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonRetail.Infrastructure\bin\Debug\netcoreapp3.1\AmazonWeb.Core.pdb
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.csprojAssemblyReference.cache
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.AssemblyInfo.cs
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.csproj.CopyComplete
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.dll
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.pdb
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonRetail.Infrastructure\obj\Debug\netcoreapp3.1\AmazonRetail.Infrastructure.genruntimeconfig.cache

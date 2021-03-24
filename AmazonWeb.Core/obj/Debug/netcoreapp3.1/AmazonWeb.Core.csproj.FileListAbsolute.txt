@@ -1,0 +1,9 @@
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonWeb.Core\bin\Debug\netcoreapp3.1\AmazonWeb.Core.deps.json
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonWeb.Core\bin\Debug\netcoreapp3.1\AmazonWeb.Core.dll
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonWeb.Core\bin\Debug\netcoreapp3.1\AmazonWeb.Core.pdb
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.AssemblyInfoInputs.cache
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.AssemblyInfo.cs
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.csproj.CoreCompileInputs.cache
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.dll
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.pdb
+C:\Users\KunalDekate\source\ProjectDemo\AmazonRetail\AmazonWeb.Core\obj\Debug\netcoreapp3.1\AmazonWeb.Core.csprojAssemblyReference.cache

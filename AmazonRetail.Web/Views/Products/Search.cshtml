@@ -1,0 +1,77 @@
+﻿@model IEnumerable<AmazonWeb.Core.Entities.Product>
+@{
+    ViewData["Title"] = "Search";
+}
+<style>
+    .button {
+        background-color: indianred;
+        border: none;
+        color: white;
+        padding: 10px 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+    }
+</style>
+ 
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Summary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImageFile)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitPrice)
+            <th>
+                @Html.DisplayNameFor(model => model.Star)
+            </th>
+            <th>
+
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Summary)
+                </td>
+
+                <td>
+                    <img src="~/Images/prod/@item.ImageFile" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UnitPrice)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Star)
+                </td>
+
+                <td>
+                    <form method="get">
+                        <p>
+                            <button class="button" type="submit" asp-controller="Carts" asp-action="Buy" asp-route-id="@item.Id"> Add to Cart </button>
+
+                        </p>
+
+                    </form>
+
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

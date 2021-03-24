@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Entities\Blog.cs" />
+    <Compile Remove="Entities\Cart.cs" />
+    <Compile Remove="Entities\Category.cs" />
+    <Compile Remove="Entities\Compare.cs" />
+    <Compile Remove="Entities\Contact.cs" />
+    <Compile Remove="Entities\List.cs" />
+    <Compile Remove="Entities\Order.cs" />
+    <Compile Remove="Entities\OrderItem.cs" />
+    <Compile Remove="Entities\Payment.cs" />
+    <Compile Remove="Entities\ProductCompare.cs" />
+    <Compile Remove="Entities\ProductList.cs" />
+    <Compile Remove="Entities\ProductRelatedProduct.cs" />
+    <Compile Remove="Entities\ProductWishlist.cs" />
+    <Compile Remove="Entities\Review.cs" />
+    <Compile Remove="Entities\Specification.cs" />
+    <Compile Remove="Entities\Tag.cs" />
+    <Compile Remove="Entities\Wishlist.cs" />
+    <Compile Remove="Repositories\ICartRepository.cs" />
+    <Compile Remove="Repositories\ICategoryRepository.cs" />
+    <Compile Remove="Repositories\ICompareRepository.cs" />
+    <Compile Remove="Repositories\IOrderRepository.cs" />
+    <Compile Remove="Repositories\IWishListRepository.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Collections.NonGeneric" Version="4.3.0" />
+  </ItemGroup>
+
+</Project>
